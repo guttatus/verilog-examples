@@ -1,0 +1,4 @@
+sim/*
+!sim/Makefile
+!sim/flist_sim.f
+!sim/irun.tcl
