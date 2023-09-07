@@ -5,9 +5,9 @@
 ``` shell
 $ cd sim/
 
-# 读满写快
+# 读快写慢
 $ make TOP=read_fast_write_slow all
 
-# 读快写慢
+# 读慢写快
 $ make TOP=read_slow_write_fast all
 ```
